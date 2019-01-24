@@ -1,0 +1,12 @@
+C:\Users\Marcin Szewczak\Source\Repos\ScorePredictor\ScorePredictor\bin\Debug\ScorePredictor.exe.config
+C:\Users\Marcin Szewczak\Source\Repos\ScorePredictor\ScorePredictor\bin\Debug\ScorePredictor.exe
+C:\Users\Marcin Szewczak\Source\Repos\ScorePredictor\ScorePredictor\bin\Debug\ScorePredictor.pdb
+C:\Users\Marcin Szewczak\Source\Repos\ScorePredictor\ScorePredictor\obj\Debug\ScorePredictor.csprojAssemblyReference.cache
+C:\Users\Marcin Szewczak\Source\Repos\ScorePredictor\ScorePredictor\obj\Debug\ScorePredictor.ScorePredictor.resources
+C:\Users\Marcin Szewczak\Source\Repos\ScorePredictor\ScorePredictor\obj\Debug\ScorePredictor.Properties.Resources.resources
+C:\Users\Marcin Szewczak\Source\Repos\ScorePredictor\ScorePredictor\obj\Debug\ScorePredictor.csproj.GenerateResource.cache
+C:\Users\Marcin Szewczak\Source\Repos\ScorePredictor\ScorePredictor\obj\Debug\ScorePredictor.csproj.CoreCompileInputs.cache
+C:\Users\Marcin Szewczak\Source\Repos\ScorePredictor\ScorePredictor\obj\Debug\ScorePredictor.exe
+C:\Users\Marcin Szewczak\Source\Repos\ScorePredictor\ScorePredictor\obj\Debug\ScorePredictor.pdb
+C:\Users\Marcin Szewczak\Source\Repos\ScorePredictor\ScorePredictor\bin\Debug\encog-core-cs.dll
+C:\Users\Marcin Szewczak\Source\Repos\ScorePredictor\ScorePredictor\obj\Debug\ScorePredictor.csproj.CopyComplete
